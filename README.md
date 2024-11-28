@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kolivine
 - 👀 I’m interested in Federated learning
-- 🌱 I’m currently a undergraduate student from BJTU
+- 🌱 I’m currently a postgraduate student from BJTU
 - 💞️ I’m looking to collaborate on friends working on federated learning
 - 📫 How to reach me 3040834914@qq.com
 
